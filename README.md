@@ -1,12 +1,12 @@
-# Webinar Youtube
-CRUD con Angular y Firebase (Firestore) paso a paso
+# Siguiendo el tutorial de YouTube
+Mediante Angular se desarolló una aplicación vinculada a Firebase de Google.
 
 ## Curso completo
 [AQUÍ](https://www.youtube.com/watch?v=t_YSrxj0wGY&t=190s)
 
 # Places
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.3.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 20.1
 
 ## Development server
 
