@@ -1,7 +1,7 @@
 # Siguiendo el tutorial de YouTube
 Mediante Angular se desarolló una aplicación vinculada a Firebase de Google.
 
-## Curso completo
+## Video Tutorial / Créditos
 [AQUÍ](https://www.youtube.com/watch?v=t_YSrxj0wGY&t=190s)
 
 # Places
