@@ -2,7 +2,7 @@
 Mediante Angular se desarolló una aplicación vinculada a Firebase de Google.
 
 ## Video Tutorial / Créditos
-[Hazme clicl :D](https://www.youtube.com/watch?v=t_YSrxj0wGY&t=190s)
+[Hazme click :D](https://www.youtube.com/watch?v=t_YSrxj0wGY&t=190s)
 
 # Places
 
